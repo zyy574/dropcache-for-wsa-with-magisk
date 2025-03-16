@@ -1,0 +1,7 @@
+# id 只能填 字母 数字 半角符号
+id=cachedroper
+name=使用dropcache减小WSA的内存占用
+version=v1.0
+versionCode=1
+author=zyy2005
+description=每5分钟使用dropcache减小WSA的内存占用一次
